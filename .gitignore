@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# For development
+.venv/
+.vscode/
+draft/
+.env
+.bash_with_env
+
+# Cache files of pre-commit hooks
+.mypy_cache/
+.ruff_cache/
