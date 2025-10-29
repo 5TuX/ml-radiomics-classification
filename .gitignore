@@ -16,3 +16,6 @@ draft/
 # Cache files of pre-commit hooks
 .mypy_cache/
 .ruff_cache/
+
+# Data
+ml-radiomics-classification/
